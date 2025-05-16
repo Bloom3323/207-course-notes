@@ -57,3 +57,7 @@ There is extensive documentation surrounding git, which you'll likely discover a
 
 - [BetterExplained: A visual guide to version control](https://betterexplained.com/articles/a-visual-guide-to-version-control/)
 - [GitHub: Quickstart](https://docs.github.com/en/get-started/quickstart)
+
+# Chapter 1 Additional Notes
+
+Know git commands in both terminal and IDE.
